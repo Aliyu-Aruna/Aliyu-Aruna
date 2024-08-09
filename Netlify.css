@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+nav{
+    text-align: center;
+    width: 100%;
+}
+nav ul{
+    color: aliceblue;
+    background-color: black;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+}
+nav ul li{
+    padding: 0px 30px;
+    list-style-type: none;
+    display: inline-block;
+
+}
+div ul{
+    padding: 50px;
+}
+div ul li{
+    list-style-type: none;
+} 
+section{
+    display: flex;
+}
+header {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 17%;
+}
+img {
+    width: 100% ;
+}
+h1 {
+    background-color: black;
+    height: 180px;
+    width: 100%;
+}
+h2 {
+    padding-left: 150px;
+}
+p {
+    padding-left: 150px;
+    width: 13%;
+}
+
+
+
+
+
+
+
